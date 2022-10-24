@@ -1,0 +1,3 @@
+activate venv : venv\Scripts\activate
+
+C:\Windows\System32\battery-report.html.
